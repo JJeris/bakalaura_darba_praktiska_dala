@@ -1,6 +1,0 @@
-[submodule "blendio-tauri"]
-	path = blendio-tauri
-	url = https://github.com/JJeris/blendio-tauri.git
-[submodule "blendio-electronjs"]
-	path = blendio-electronjs
-	url = https://github.com/JJeris/blendio-electronjs
