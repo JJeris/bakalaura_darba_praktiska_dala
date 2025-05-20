@@ -1,16 +1,19 @@
 ## Izstrādes sesija – [16.05.2025.]
+
+**Izstrādes sesijas ilgums:**  
+- 8h
+
+**Veiktie uzdevumi:**  
 - Pabeidzu implementāciju abos ietvaros, kā arī notestēju galvenās funkcijas.
 - Sakomplektēju un lokāli instalēju pēdējās iterācijas, bet saskaros ar problēmām ElectronJS projektā.
 
-Grūtības:
+**Sastaptās grūtības / izaicinājumi:**
 - Neradās kļūdas sakomplektējot ElectronJS projektu, bet bija nepieciešams terminālis ar Admin privilēģiju, lai pabeigtu sakomplektēšanas procesu, jo tā laikā tika radīti symlinki.
-- Instalējot ElectronJS versiju radās kļūdas, kas bija saistīta ar importiem. Kļūda noveda uz to, ka lietojumprogrammas galvenā loga instance netika izveidota, bet lietojumprogrammas paliek ieslēgta. Mēģinot atinstalēt bojāto versiju uzlec paziņojums, ka ir jārestartē dators -  iemesls šim ir tas, ka tiek mēģināts atinstalēt ieslēgtu lietojumprogrammu. Attiecīgi lietojumprogrammu jāizslēdz ar Task manager.
-
-**Sastaptās grūtības / izaicinājumi:**  
+- Instalējot ElectronJS versiju radās kļūdas, kas bija saistīta ar importiem. Kļūda noveda uz to, ka lietojumprogrammas galvenā loga instance netika izveidota, bet lietojumprogrammas paliek ieslēgta. Mēģinot atinstalēt bojāto versiju uzlec paziņojums, ka ir jārestartē dators -  iemesls šim ir tas, ka tiek mēģināts atinstalēt ieslēgtu lietojumprogrammu. Attiecīgi lietojumprogrammu jāizslēdz ar Task manager.  
 - ElectronJs kļūda produkcijas vidē. Problēma bija electron-dl implementācija.
 
 **Piezīmes / pārdomas:**
-- N/A
+- Testējot kodu atradās nepilnība ElectronJS Blender versijas lejupielādes kodā - kad tiek sāktas vairāks lejupielādes, progress dati var sākt pārklāties lietotāja saskarnē. Risinājums netika meklēts, jo tas nav būtiski pētījumam.
 
 ## Izstrādes sesija – [15.05.2025.]
 
