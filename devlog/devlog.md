@@ -1,3 +1,15 @@
+## Izstrādes sesija – [17.05.2025.]
+
+**Izstrādes sesijas ilgums:**  
+- h
+
+**Veiktie uzdevumi:**  
+
+**Sastaptās grūtības / izaicinājumi:**
+
+**Piezīmes / pārdomas:**
+
+
 ## Izstrādes sesija – [16.05.2025.]
 
 **Izstrādes sesijas ilgums:**  
