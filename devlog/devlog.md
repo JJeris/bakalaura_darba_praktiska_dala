@@ -1,14 +1,16 @@
 ## Izstrādes sesija – [17.05.2025.]
 
 **Izstrādes sesijas ilgums:**  
-- h
+- 4h
 
 **Veiktie uzdevumi:**  
+- Tika pārbaudīta abu projekta sakomplektēšana, un tas, vai abas lietojumprogrammas versijas ir spējīgas strādāt produkcijas vidē.
 
 **Sastaptās grūtības / izaicinājumi:**
+- Tauri gadījumā dev mode režīma sakomplektēšana, kā arī produkcijas sakomplektēšana, ir daudz, daudz ilgāka nekā ElectronJS gadījumā. To sakot, ar Tauri nekad neradās neidentificētas problēmas produkcijas vidē, jo, ja koda bija kāda kļūda, to uzreiz parādīja kompilators vai Rust borrow checkers. 
 
 **Piezīmes / pārdomas:**
-
+- Varbūt ka Tauri kompilēšanas ātrums ir trade-offs, ka Tauri projekti kompilējas ilgāk nekā ElectronJS, bet vismaz ir pārliecība, ka Tauri projekts strādās - šāda pārliecība man bija vāja ElectornJS projektam. Hot module reloads Tauri projektā arī bija ļoti noderīgs, tomēr, izmaiņas Rust kodā arī prasīja projekta pārkompilēšanu, kas tomēr bija jūtami ilga.
 
 ## Izstrādes sesija – [16.05.2025.]
 
@@ -245,7 +247,6 @@
 **Sastaptās grūtības / izaicinājumi:**  
 - Grūtītas uzstādīt debuggeri.
 - SQL plugins tiek izmantots tikai FE, ne backend. Backendam jāimplementē no jauna ar sqlx.
-- Grūtības pareizi uzstādīt 
 
 **Piezīmes / pārdomas:**  
 - Izvēlējos eksperimentā apskatītās lietojumprogrammas implementāciju Tauri izstrādes ietvarā, jo:
