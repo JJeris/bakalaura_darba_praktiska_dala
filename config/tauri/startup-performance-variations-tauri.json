@@ -1,0 +1,21 @@
+{
+  "test_name": "startup-performance-tauri",
+  "project_dir": "C:\\bakalaura_darba\\blendio-tauri",
+  "result_dir": "C:\\bakalaura_darba\\results\\tauri\\startup",
+  "tests": [
+    {
+      "result_file_name": "01-release-startup.json",
+      "executable_type": "release",
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "02-debug-startup.json",
+      "executable_type": "debug",
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    }
+  ]
+}

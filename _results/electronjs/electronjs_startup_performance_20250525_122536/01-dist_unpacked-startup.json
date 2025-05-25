@@ -1,0 +1,2473 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170045071,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170057080,
+      "end_ms": 1748170059086,
+      "duration_ms": 2006,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170057083,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170058087,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170059086,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170059123,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170059132,
+      "end_ms": 1748170061137,
+      "duration_ms": 2005,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170059136,
+          "main_pid": 14064,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170060136,
+          "main_pid": 14064,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170061137,
+          "main_pid": 14064,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170061178,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170061185,
+      "end_ms": 1748170063193,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170061189,
+          "main_pid": 10764,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170062189,
+          "main_pid": 10764,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170063189,
+          "main_pid": 10764,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170063232,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170063243,
+      "end_ms": 1748170065254,
+      "duration_ms": 2011,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170063244,
+          "main_pid": 11320,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170064250,
+          "main_pid": 11320,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 9.4,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170065254,
+          "main_pid": 11320,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170065298,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170065309,
+      "end_ms": 1748170067313,
+      "duration_ms": 2004,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170065313,
+          "main_pid": 22660,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170066313,
+          "main_pid": 22660,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 14.1,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170067313,
+          "main_pid": 22660,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 6,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170067347,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170067353,
+      "end_ms": 1748170069361,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170067357,
+          "main_pid": 13464,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170068357,
+          "main_pid": 13464,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 10.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170069361,
+          "main_pid": 13464,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 7,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170069390,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170069401,
+      "end_ms": 1748170071408,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170069402,
+          "main_pid": 24168,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170070409,
+          "main_pid": 24168,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.6,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170071408,
+          "main_pid": 24168,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 8,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170071447,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170071456,
+      "end_ms": 1748170074467,
+      "duration_ms": 3011,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170071458,
+          "main_pid": 20512,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170072462,
+          "main_pid": 20512,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170073462,
+          "main_pid": 20512,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 3.1,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170074466,
+          "main_pid": 20512,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 9,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170074551,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170074564,
+      "end_ms": 1748170076575,
+      "duration_ms": 2011,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170074572,
+          "main_pid": 11644,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170075571,
+          "main_pid": 11644,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 15.6,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170076571,
+          "main_pid": 11644,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 10,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170076637,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170076650,
+      "end_ms": 1748170078659,
+      "duration_ms": 2009,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170076654,
+          "main_pid": 16536,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170077657,
+          "main_pid": 16536,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170078659,
+          "main_pid": 16536,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 11,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170078707,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170078720,
+      "end_ms": 1748170080728,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170078728,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170079727,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 12.5,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170080728,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 12,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170080770,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170080784,
+      "end_ms": 1748170083792,
+      "duration_ms": 3008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170080789,
+          "main_pid": 23848,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170081791,
+          "main_pid": 23848,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 9.4,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170082795,
+          "main_pid": 23848,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170083792,
+          "main_pid": 23848,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 13,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170083840,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170083852,
+      "end_ms": 1748170085860,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170083856,
+          "main_pid": 25296,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170084857,
+          "main_pid": 25296,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 7.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170085860,
+          "main_pid": 25296,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 14,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170085903,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170085911,
+      "end_ms": 1748170087919,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170085915,
+          "main_pid": 22940,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170086917,
+          "main_pid": 22940,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170087917,
+          "main_pid": 22940,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 15,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170087959,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170087967,
+      "end_ms": 1748170089971,
+      "duration_ms": 2004,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170087972,
+          "main_pid": 11820,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170088973,
+          "main_pid": 11820,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170089971,
+          "main_pid": 11820,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 16,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170090004,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170090011,
+      "end_ms": 1748170092019,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170090016,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170091016,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170092017,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 17,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170092054,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170092061,
+      "end_ms": 1748170094068,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170092064,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170093068,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 12.5,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170094068,
+          "main_pid": 9608,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 18,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170094105,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170094113,
+      "end_ms": 1748170096120,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170094115,
+          "main_pid": 2200,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170095116,
+          "main_pid": 2200,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 7.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170096120,
+          "main_pid": 2200,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 19,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170096157,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170096166,
+      "end_ms": 1748170098173,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170096169,
+          "main_pid": 14964,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170097172,
+          "main_pid": 14964,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 10.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170098173,
+          "main_pid": 14964,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 20,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170098224,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170098235,
+      "end_ms": 1748170100242,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170098239,
+          "main_pid": 21864,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170099240,
+          "main_pid": 21864,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170100240,
+          "main_pid": 21864,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 21,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170100280,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170100288,
+      "end_ms": 1748170102295,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170100291,
+          "main_pid": 9420,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170101293,
+          "main_pid": 9420,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 10.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170102295,
+          "main_pid": 9420,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 22,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170102343,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170102351,
+      "end_ms": 1748170104360,
+      "duration_ms": 2009,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170102353,
+          "main_pid": 21452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170103356,
+          "main_pid": 21452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170104358,
+          "main_pid": 21452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 23,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170104397,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170104404,
+      "end_ms": 1748170106411,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170104407,
+          "main_pid": 22712,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170105411,
+          "main_pid": 22712,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170106411,
+          "main_pid": 22712,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 24,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170106446,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170106454,
+      "end_ms": 1748170108466,
+      "duration_ms": 2012,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170106457,
+          "main_pid": 6152,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170107460,
+          "main_pid": 6152,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 12.5,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170108465,
+          "main_pid": 6152,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 25,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170108760,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170108782,
+      "end_ms": 1748170110816,
+      "duration_ms": 2034,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170108789,
+          "main_pid": 25984,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170109803,
+          "main_pid": 25984,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 40.0,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170110806,
+          "main_pid": 25984,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 26,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170111072,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170111090,
+      "end_ms": 1748170113112,
+      "duration_ms": 2022,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170111096,
+          "main_pid": 17604,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170112098,
+          "main_pid": 17604,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 39.1,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170113107,
+          "main_pid": 17604,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 27,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170113800,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170113853,
+      "end_ms": 1748170115865,
+      "duration_ms": 2012,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170113861,
+          "main_pid": 26136,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170114866,
+          "main_pid": 26136,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 42.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170115865,
+          "main_pid": 26136,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 28,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170116533,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170116574,
+      "end_ms": 1748170118589,
+      "duration_ms": 2015,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170116581,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170117588,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 39.1,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170118587,
+          "main_pid": 26184,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 29,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170118878,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170118929,
+      "end_ms": 1748170121956,
+      "duration_ms": 3027,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170118938,
+          "main_pid": 516,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170119939,
+          "main_pid": 516,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 30.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170120944,
+          "main_pid": 516,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170121947,
+          "main_pid": 516,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 30,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170122240,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170122268,
+      "end_ms": 1748170124300,
+      "duration_ms": 2032,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170122279,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170123277,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 32.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170124279,
+          "main_pid": 21160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 31,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170125103,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170125141,
+      "end_ms": 1748170127165,
+      "duration_ms": 2024,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170125150,
+          "main_pid": 15072,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170126156,
+          "main_pid": 15072,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 43.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170127159,
+          "main_pid": 15072,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 32,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170127341,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170127367,
+      "end_ms": 1748170129398,
+      "duration_ms": 2031,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170127377,
+          "main_pid": 18620,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170128377,
+          "main_pid": 18620,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 34.4,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170129380,
+          "main_pid": 18620,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 33,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170129589,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170129610,
+      "end_ms": 1748170131622,
+      "duration_ms": 2012,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170129617,
+          "main_pid": 20192,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170130617,
+          "main_pid": 20192,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 39.1,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170131622,
+          "main_pid": 20192,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 34,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170131875,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170131912,
+      "end_ms": 1748170133925,
+      "duration_ms": 2013,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170131919,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170132921,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 32.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170133925,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 35,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170134879,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170134905,
+      "end_ms": 1748170136965,
+      "duration_ms": 2060,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170134913,
+          "main_pid": 25616,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 97.7,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170135919,
+          "main_pid": 25616,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 37.5,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170136927,
+          "main_pid": 25616,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 36,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170138402,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170138470,
+      "end_ms": 1748170140489,
+      "duration_ms": 2019,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170138481,
+          "main_pid": 16740,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170139481,
+          "main_pid": 16740,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 50.0,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170140482,
+          "main_pid": 16740,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 37,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170140686,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170140723,
+      "end_ms": 1748170142764,
+      "duration_ms": 2041,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170140736,
+          "main_pid": 22624,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170141732,
+          "main_pid": 22624,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 32.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170142752,
+          "main_pid": 22624,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 38,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170142895,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170142915,
+      "end_ms": 1748170144937,
+      "duration_ms": 2022,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170142921,
+          "main_pid": 24808,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170143929,
+          "main_pid": 24808,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 33.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170144937,
+          "main_pid": 24808,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 39,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170145068,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170145089,
+      "end_ms": 1748170147094,
+      "duration_ms": 2005,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170145098,
+          "main_pid": 21648,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170146094,
+          "main_pid": 21648,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 34.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170147094,
+          "main_pid": 21648,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 40,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170147136,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170147144,
+      "end_ms": 1748170149154,
+      "duration_ms": 2010,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170147145,
+          "main_pid": 24924,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170148149,
+          "main_pid": 24924,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 7.8,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170149154,
+          "main_pid": 24924,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 41,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170149212,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170149222,
+      "end_ms": 1748170151229,
+      "duration_ms": 2007,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170149227,
+          "main_pid": 26160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170150224,
+          "main_pid": 26160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170151229,
+          "main_pid": 26160,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 42,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170151276,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170151285,
+      "end_ms": 1748170153294,
+      "duration_ms": 2009,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170151288,
+          "main_pid": 26316,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170152289,
+          "main_pid": 26316,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170153294,
+          "main_pid": 26316,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 43,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170153329,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170153334,
+      "end_ms": 1748170155344,
+      "duration_ms": 2010,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170153339,
+          "main_pid": 26524,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170154338,
+          "main_pid": 26524,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170155344,
+          "main_pid": 26524,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 44,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170155434,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170155450,
+      "end_ms": 1748170157458,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170155456,
+          "main_pid": 11448,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170156454,
+          "main_pid": 11448,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 17.4,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170157458,
+          "main_pid": 11448,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 45,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170157491,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170157499,
+      "end_ms": 1748170159504,
+      "duration_ms": 2005,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170157502,
+          "main_pid": 25360,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170158508,
+          "main_pid": 25360,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170159504,
+          "main_pid": 25360,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 46,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170159539,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170159547,
+      "end_ms": 1748170161553,
+      "duration_ms": 2006,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170159550,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170160550,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170161553,
+          "main_pid": 25496,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 47,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170161589,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170161595,
+      "end_ms": 1748170163603,
+      "duration_ms": 2008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170161599,
+          "main_pid": 26452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170162601,
+          "main_pid": 26452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 4.7,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170163603,
+          "main_pid": 26452,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 48,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170163663,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170163678,
+      "end_ms": 1748170165684,
+      "duration_ms": 2006,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170163683,
+          "main_pid": 26480,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170164685,
+          "main_pid": 26480,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 17.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170165684,
+          "main_pid": 26480,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 49,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170165721,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170165730,
+      "end_ms": 1748170167734,
+      "duration_ms": 2004,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170165733,
+          "main_pid": 4376,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170166733,
+          "main_pid": 4376,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 10.9,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170167734,
+          "main_pid": 4376,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 50,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748170167771,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "startup_instances": {
+      "start_ms": 1748170167778,
+      "end_ms": 1748170169784,
+      "duration_ms": 2006,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748170167778,
+          "main_pid": 11308,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170168783,
+          "main_pid": 11308,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 6.2,
+          "main_process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170169784,
+          "main_pid": 11308,
+          "main_name": "blendio-electronjs.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 4
+        }
+      ]
+    }
+  }
+]

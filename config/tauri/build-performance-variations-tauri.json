@@ -1,0 +1,127 @@
+{
+  "test_name": "build-performance-tauri",
+  "project_dir": "C:\\bakalaura_darba\\blendio-tauri",
+  "result_dir": "C:\\bakalaura_darba\\results\\tauri\\build_time",
+  "tests": [
+    {
+      "result_file_name": "01-release-build.json",
+      "target_type": "release",
+      "cargo_clean": true,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "02-release-build.json",
+      "target_type": "release",
+      "cargo_clean": true,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "03-release-build.json",
+      "target_type": "release",
+      "cargo_clean": true,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "04-release-build.json",
+      "target_type": "release",
+      "cargo_clean": false,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "05-release-build.json",
+      "target_type": "release",
+      "cargo_clean": false,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "06-release-build.json",
+      "target_type": "release",
+      "cargo_clean": false,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run tauri build"
+      ]
+    },
+    {
+      "result_file_name": "07-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": true,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    },
+    {
+      "result_file_name": "08-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": true,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    },
+    {
+      "result_file_name": "09-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": true,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    },
+    {
+      "result_file_name": "10-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": false,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    },
+    {
+      "result_file_name": "11-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": false,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    },
+    {
+      "result_file_name": "12-debug-build.json",
+      "target_type": "debug",
+      "cargo_clean": false,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run tauri build -- --debug"
+      ]
+    }
+  ]
+}

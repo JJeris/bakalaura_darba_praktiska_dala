@@ -1,0 +1,127 @@
+{
+  "test_name": "build-performance-electronjs",
+  "project_dir": "C:\\bakalaura_darba\\blendio-electronjs",
+  "result_dir": "C:\\bakalaura_darba\\results\\electronjs\\build_time",
+  "tests": [
+    {
+      "result_file_name": "01-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": true,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "02-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": true,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "03-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": true,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "04-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": false,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "05-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": false,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "06-dist-build.json",
+      "target_type": "dist",
+      "delete_dist": false,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run build:win"
+      ]
+    },
+    {
+      "result_file_name": "07-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": true,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    },
+    {
+      "result_file_name": "08-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": true,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    },
+    {
+      "result_file_name": "09-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": true,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    },
+    {
+      "result_file_name": "10-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": false,
+      "delete_node_modules": true,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    },
+    {
+      "result_file_name": "11-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": false,
+      "delete_node_modules": false,
+      "npm_install": true,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    },
+    {
+      "result_file_name": "12-dist_unpacked-build.json",
+      "target_type": "dist_unpacked",
+      "delete_dist": false,
+      "delete_node_modules": false,
+      "npm_install": false,
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    }
+  ]
+}

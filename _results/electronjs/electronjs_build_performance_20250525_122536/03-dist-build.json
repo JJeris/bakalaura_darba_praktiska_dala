@@ -1,0 +1,170 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748166532942,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748166536384,
+        "end_ms": 1748166553685,
+        "duration_ms": 17301,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:win",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748166553685,
+        "end_ms": 1748166665492,
+        "duration_ms": 111807,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:win"
+    ],
+    "msi_size_bytes": 100438016,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748166665492,
+    "steps": [
+      {
+        "cmd": "npm run build:win",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748166665562,
+        "end_ms": 1748166783585,
+        "duration_ms": 118023,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:win"
+    ],
+    "msi_size_bytes": 100438016,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748166783586,
+    "steps": [
+      {
+        "cmd": "npm run build:win",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748166783667,
+        "end_ms": 1748166889413,
+        "duration_ms": 105746,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:win"
+    ],
+    "msi_size_bytes": 100438016,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748166889424,
+    "steps": [
+      {
+        "cmd": "npm run build:win",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748166889523,
+        "end_ms": 1748167004134,
+        "duration_ms": 114611,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:win"
+    ],
+    "msi_size_bytes": 100438016,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748167004135,
+    "steps": [
+      {
+        "cmd": "npm run build:win",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748167004235,
+        "end_ms": 1748167123544,
+        "duration_ms": 119309,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:win"
+    ],
+    "msi_size_bytes": 100438016,
+    "exe_size_bytes": 202056192
+  }
+]

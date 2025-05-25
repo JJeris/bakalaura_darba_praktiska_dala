@@ -1,0 +1,5082 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169427505,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169439342,
+      "end_ms": 1748169499474,
+      "duration_ms": 60132,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169439352,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 5296128,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169440352,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81100800,
+          "cpu_percent": 6.2,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169441352,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81117184,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169442352,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81125376,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169443356,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81141760,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169444357,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80986112,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169445357,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81022976,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169446362,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81027072,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169447362,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81027072,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169448364,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81203200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169449368,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81203200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169450372,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81207296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169451375,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81207296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169452386,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81215488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169453383,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169454388,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169455392,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80027648,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169456393,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80027648,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169457394,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80027648,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169458402,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80027648,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169459403,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80027648,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169460405,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169461405,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169462406,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169463409,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169464410,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169465413,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80031744,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169466414,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80834560,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169467415,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80838656,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169468413,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80838656,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169469417,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80838656,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169470420,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79613952,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169471422,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79613952,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169472425,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79613952,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169473424,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169474426,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169475426,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169476427,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169477427,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169478428,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169479430,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169480431,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169481432,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169482433,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169483434,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169484437,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169485437,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169486441,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169487442,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169488443,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79540224,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169489449,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79544320,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169490449,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79544320,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169491445,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79544320,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169492458,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79532032,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169493463,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79532032,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169494467,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79532032,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169495471,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79380480,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169496470,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79380480,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169497474,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79380480,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169498470,
+          "main_pid": 16668,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79380480,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169500315,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169500341,
+      "end_ms": 1748169560549,
+      "duration_ms": 60208,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169500360,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4075520,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169501363,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80121856,
+          "cpu_percent": 33.8,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169502364,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80142336,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169503370,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80142336,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169504379,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80142336,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169505380,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80150528,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169506380,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80166912,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169507390,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80166912,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169508385,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80166912,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169509385,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80318464,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169510389,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80318464,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169511391,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80330752,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169512392,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80330752,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169513394,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169514399,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169515397,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169516401,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169517419,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169518419,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169519439,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169520446,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80338944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169521446,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169522452,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169523465,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169524480,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169525499,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169526489,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169527488,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169528482,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169529489,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80351232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169530489,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80334848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169531489,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80265216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169532490,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169533499,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169534499,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169535499,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169536504,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169537504,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169538503,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169539502,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169540508,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169541508,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169542510,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169543513,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169544518,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169545524,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169546522,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169547522,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169548522,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169549523,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169550529,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169551530,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169552532,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169553532,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169554537,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169555540,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79343616,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169556542,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79347712,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169557544,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79347712,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169558548,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79347712,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169559549,
+          "main_pid": 24688,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79347712,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169560612,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169560626,
+      "end_ms": 1748169620786,
+      "duration_ms": 60160,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169560641,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 5201920,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169561639,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 10.8,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169562641,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81268736,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169563645,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81272832,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169564647,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81272832,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169565647,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81166336,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169566654,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81178624,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169567656,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81178624,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169568653,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81178624,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169569657,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81207296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169570657,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81207296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169571658,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81215488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169572659,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81215488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169573658,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169574660,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169575662,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169576665,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169577667,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169578669,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81219584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169579671,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81223680,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169580670,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81227776,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169581677,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169582676,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169583676,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169584679,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169585681,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169586684,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169587687,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169588688,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81231872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169589694,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 83718144,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169590695,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 83763200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169591696,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169592698,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169593698,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169594698,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169595702,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169596706,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169597706,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169598724,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169599726,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169600729,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169601728,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169602734,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169603741,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169604741,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169605757,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169606758,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169607755,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169608755,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169609767,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169610778,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169611777,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169612780,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82391040,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169613782,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82395136,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169614778,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82395136,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169615785,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82395136,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169616797,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82399232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169617790,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82399232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169618790,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82399232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169619787,
+          "main_pid": 13908,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 82399232,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169621118,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169621174,
+      "end_ms": 1748169681407,
+      "duration_ms": 60233,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169621197,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4227072,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169622197,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 44.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169623218,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80117760,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169624219,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80130048,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169625219,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80130048,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169626239,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79990784,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169627250,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80011264,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169628255,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80011264,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169629259,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80044032,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169630275,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80195584,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169631268,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80203776,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169632277,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80224256,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169633281,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80224256,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169634275,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169635268,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169636278,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169637275,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169638279,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169639277,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169640284,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169641285,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80228352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169642284,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169643284,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169644294,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169645294,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169646299,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169647297,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169648295,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169649299,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169650304,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169651307,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80236544,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169652314,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80265216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169653314,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169654314,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169655316,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169656313,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169657314,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169658319,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169659324,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169660331,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169661338,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169662337,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169663338,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169664344,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169665363,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169666349,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79310848,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169667354,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169668355,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169669361,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169670363,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169671373,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169672378,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169673377,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169674383,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169675383,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169676393,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169677403,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169678403,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169679403,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169680404,
+          "main_pid": 26456,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79314944,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169681448,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169681452,
+      "end_ms": 1748169741650,
+      "duration_ms": 60198,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169681463,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4300800,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169682457,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81297408,
+          "cpu_percent": 9.4,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169683462,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169684463,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169685464,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169686468,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81182720,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169687467,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81195008,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169688472,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81203200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169689473,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81203200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169690473,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81240064,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169691475,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81240064,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169692482,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81248256,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169693485,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81248256,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169694485,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169695494,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169696495,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169697496,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169698503,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169699510,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169700509,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81252352,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169701518,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81256448,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169702522,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81264640,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169703542,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81264640,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169704540,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81264640,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169705542,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81264640,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169706552,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81264640,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169707562,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 1.5,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169708561,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169709564,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169710566,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169711567,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169712567,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169713576,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169714573,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169715573,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169716583,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169717585,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169718582,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169719585,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169720587,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169721591,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169722600,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169723595,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169724595,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169725623,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169726633,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169727627,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169728631,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169729631,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169730636,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169731659,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169732647,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169733645,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169734645,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169735644,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169736646,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79929344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169737650,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79933440,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169738650,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79933440,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169739652,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79933440,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169740654,
+          "main_pid": 19756,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79937536,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 6,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169741690,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169741698,
+      "end_ms": 1748169801826,
+      "duration_ms": 60128,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169741704,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4251648,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169742708,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81129472,
+          "cpu_percent": 12.3,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169743711,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81149952,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169744712,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81154048,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169745712,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81154048,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169746712,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81014784,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169747713,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81022976,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169748715,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81039360,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169749716,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81068032,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169750727,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81297408,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169751723,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81297408,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169752726,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81301504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169753729,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81301504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169754731,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169755731,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169756732,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169757736,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169758737,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169759736,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169760740,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169761741,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81305600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169762741,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169763743,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169764747,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169765747,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169766749,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169767752,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169768751,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169769753,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169770759,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169771762,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81309696,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169772765,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169773771,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169774769,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169775769,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169776769,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169777771,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169778771,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169779775,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169780777,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169781779,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169782775,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169783779,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169784779,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169785779,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169786781,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169787780,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169788784,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169789788,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169790791,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169791792,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169792793,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169793794,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169794798,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169795799,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169796801,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80207872,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169797808,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80211968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169798814,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80211968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169799818,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80211968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169800829,
+          "main_pid": 3136,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80211968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 7,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169802695,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169802728,
+      "end_ms": 1748169862896,
+      "duration_ms": 60168,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169802745,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4251648,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169803749,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80814080,
+          "cpu_percent": 36.9,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169804747,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80826368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169805757,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80826368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169806758,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80826368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169807773,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80670720,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169808773,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80687104,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169809771,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80695296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169810788,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80695296,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169811800,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80953344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169812795,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80953344,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169813799,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80973824,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169814800,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80973824,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169815804,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169816807,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169817817,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169818812,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169819822,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169820824,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169821827,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80977920,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169822831,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80982016,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169823832,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169824834,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169825837,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169826842,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169827837,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169828842,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169829842,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169830847,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169831851,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169832857,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80990208,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169833857,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80629760,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169834861,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169835859,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169836862,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169837861,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169838863,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169839864,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169840867,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169841868,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169842870,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169843870,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169844876,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169845876,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169846872,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169847879,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169848880,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169849878,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169850881,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169851884,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169852886,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169853886,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169854886,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169855888,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169856889,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169857890,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79753216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169858892,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79757312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169859896,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79757312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169860897,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79757312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169861898,
+          "main_pid": 9924,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79757312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 8,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169862943,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169862948,
+      "end_ms": 1748169923082,
+      "duration_ms": 60134,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169862957,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4288512,
+          "cpu_percent": 104.2,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169863960,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169864960,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169865966,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169866965,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169867967,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81141760,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169868971,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81154048,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169869969,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81162240,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169870971,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81162240,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169871975,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81326080,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169872975,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81326080,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169873979,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81334272,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169874976,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81334272,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169875983,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169876985,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169877985,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169878989,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169879990,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169880993,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169881991,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81338368,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169882995,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81342464,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169883999,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81350656,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169885003,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81379328,
+          "cpu_percent": 1.5,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169885997,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169887003,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169888002,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169889004,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169890004,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169891003,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169892004,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169893008,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81387520,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169894007,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80252928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169895011,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80330752,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169896014,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80384000,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169897014,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80384000,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169898016,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80384000,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169899020,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169900022,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169901031,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169902047,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169903050,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169904049,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169905050,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169906049,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169907052,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169908054,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169909061,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169910065,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169911074,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169912079,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169913078,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169914085,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169915083,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169916086,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169917082,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169918082,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169919085,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169920098,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169921090,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169922091,
+          "main_pid": 2532,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80388096,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 9,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169923367,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169923384,
+      "end_ms": 1748169983539,
+      "duration_ms": 60155,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169923399,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4050944,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169924413,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80642048,
+          "cpu_percent": 40.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169925414,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80654336,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169926416,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80658432,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169927423,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80658432,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169928425,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80510976,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169929444,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80523264,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169930451,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80531456,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169931456,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80531456,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169932471,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80732160,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169933463,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80732160,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169934469,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80744448,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169935462,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80744448,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169936461,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80777216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169937464,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80781312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169938463,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80781312,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169939464,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80785408,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169940465,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80789504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169941466,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80789504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169942467,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80789504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169943470,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80789504,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169944472,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169945470,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169946469,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169947472,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169948472,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169949474,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169950474,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169951482,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169952487,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169953484,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80793600,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169954492,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80633856,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169955492,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169956496,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169957498,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169958499,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169959497,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169960502,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169961503,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169962507,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169963514,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169964521,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169965521,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 1.6,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169966523,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 3.1,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169967525,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169968525,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79675392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169969527,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169970529,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169971531,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169972531,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169973535,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169974538,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169975535,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169976537,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169977537,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169978538,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169979541,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169980541,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169981543,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169982543,
+          "main_pid": 16736,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 79679488,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 10,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748169983579,
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748169983587,
+      "end_ms": 1748170043739,
+      "duration_ms": 60152,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748169983592,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 4272128,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748169984594,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81223680,
+          "cpu_percent": 7.7,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169985595,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81235968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169986594,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81235968,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169987596,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81031168,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169988598,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81195008,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169989599,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81203200,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169990601,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81211392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169991602,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81211392,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169992602,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81268736,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169993603,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81268736,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169994602,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81272832,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169995604,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81272832,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169996604,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169997610,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169998614,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748169999616,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170000634,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170001648,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170002646,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170003653,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81276928,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170004662,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81285120,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170005654,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170006655,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170007663,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170008655,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170009659,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170010660,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170011664,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170012663,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170013680,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 81289216,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170014685,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170015689,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170016686,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170017688,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170018691,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170019695,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170020697,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170021700,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170022703,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170023705,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170024709,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170025711,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170026719,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170027720,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170028724,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170029729,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170030727,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170031735,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170032740,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170033739,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170034738,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170035737,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170036738,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170037737,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170038739,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170039739,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170040741,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170041742,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        },
+        {
+          "timestamp_ms": 1748170042743,
+          "main_pid": 2680,
+          "main_name": "blendio-electronjs.exe",
+          "ram_bytes": 80105472,
+          "cpu_percent": 0.0,
+          "process_count": 4
+        }
+      ]
+    }
+  }
+]

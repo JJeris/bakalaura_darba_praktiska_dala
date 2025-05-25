@@ -1,0 +1,202 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748183881531,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183883863,
+        "end_ms": 1748183893152,
+        "duration_ms": 9289,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:unpack",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183893152,
+        "end_ms": 1748183900222,
+        "duration_ms": 7070,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "msi_size_bytes": 0,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748183900222,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183902569,
+        "end_ms": 1748183911485,
+        "duration_ms": 8916,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:unpack",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183911485,
+        "end_ms": 1748183918383,
+        "duration_ms": 6898,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "msi_size_bytes": 0,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748183918383,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183922144,
+        "end_ms": 1748183931606,
+        "duration_ms": 9462,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:unpack",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183931606,
+        "end_ms": 1748183938726,
+        "duration_ms": 7120,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "msi_size_bytes": 0,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748183938726,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183940998,
+        "end_ms": 1748183951340,
+        "duration_ms": 10342,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:unpack",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183951340,
+        "end_ms": 1748183958267,
+        "duration_ms": 6927,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "msi_size_bytes": 0,
+    "exe_size_bytes": 202056192
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "electron": "36.2.1",
+      "node": "v20.9.0",
+      "npm": "10.1.0"
+    },
+    "session_start_ms": 1748183958267,
+    "steps": [
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183960524,
+        "end_ms": 1748183970104,
+        "duration_ms": 9580,
+        "success": true
+      },
+      {
+        "cmd": "npm run build:unpack",
+        "cwd": "C:\\bakalaura_darba\\blendio-electronjs",
+        "start_ms": 1748183970104,
+        "end_ms": 1748183977132,
+        "duration_ms": 7028,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run build:unpack"
+    ],
+    "msi_size_bytes": 0,
+    "exe_size_bytes": 202056192
+  }
+]

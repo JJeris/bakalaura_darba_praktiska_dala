@@ -1,0 +1,14 @@
+{
+  "test_name": "runtime-performance-electronjs",
+  "project_dir": "C:\\bakalaura_darba\\blendio-electronjs",
+  "result_dir": "C:\\bakalaura_darba\\results\\electronjs\\runtime",
+  "tests": [
+    {
+      "result_file_name": "01-dist_unpacked-runtime.json",
+      "executable_type": "dist_unpacked",
+      "build_commands": [
+        "npm run build:unpack"
+      ]
+    }
+  ]
+}

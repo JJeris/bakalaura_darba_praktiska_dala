@@ -1,0 +1,5102 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748170729401,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748170861654,
+      "end_ms": 1748170921736,
+      "duration_ms": 60082,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748170861662,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2838528,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170862661,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 74076160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170863660,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73785344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170864666,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75845632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170865669,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75780096,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170866673,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75739136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170867670,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75755520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170868672,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75755520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170869679,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75755520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170870680,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73281536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170871682,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73265152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170872686,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73367552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170873685,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73367552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170874685,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73211904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170875690,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73211904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170876694,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73211904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170877696,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73216000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170878697,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73216000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170879696,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73224192,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170880699,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73224192,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170881703,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73236480,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170882700,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73342976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170883705,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73388032,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170884705,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73392128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170885708,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73392128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170886708,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73293824,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170887709,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73293824,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170888713,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73293824,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170889709,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73293824,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170890716,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73293824,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170891717,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73146368,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170892718,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73445376,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170893721,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73879552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170894722,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73850880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170895725,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73850880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170896726,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73850880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170897728,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73850880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170898731,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73842688,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170899729,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73842688,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170900731,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73842688,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170901731,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73842688,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170902732,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170903730,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170904730,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170905732,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170906730,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170907733,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170908733,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170909733,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170910734,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170911736,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170912737,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170913737,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73945088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170914738,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170915739,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170916738,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170917739,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170918740,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170919738,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170920741,
+          "main_pid": 10628,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73863168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748170921784,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748170921789,
+      "end_ms": 1748170981880,
+      "duration_ms": 60091,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748170921795,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2736128,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170922798,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72765440,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170923797,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72601600,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170924799,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75681792,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170925800,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75669504,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170926800,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75718656,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170927796,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75771904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170928803,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75771904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170929807,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75771904,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170930807,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170931807,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170932811,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170933806,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170934811,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170935811,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170936813,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170937813,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72531968,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170938817,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72531968,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170939816,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72540160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170940819,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72540160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170941817,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72548352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170942821,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170943821,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170944825,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170945826,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170946826,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170947827,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170948830,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170949833,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170950835,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170951833,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72478720,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170952837,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73310208,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170953837,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73310208,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170954840,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73281536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170955842,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73281536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170956843,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73281536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170957842,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73281536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170958845,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73273344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170959845,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73273344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170960848,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73273344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170961850,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73273344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170962850,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73379840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170963852,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73379840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170964854,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170965853,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170966855,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170967855,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170968856,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170969860,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170970860,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170971860,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170972862,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170973861,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73064448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170974864,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170975872,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170976872,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170977872,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170978875,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170979876,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170980881,
+          "main_pid": 24592,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72998912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748170981923,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748170981924,
+      "end_ms": 1748171042062,
+      "duration_ms": 60138,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748170981934,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2760704,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748170982932,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170983939,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72339456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170984936,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75390976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170985940,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75374592,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170986945,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75636736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170987949,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75669504,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170988950,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75677696,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170989951,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75677696,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170990951,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72417280,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170991951,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72417280,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170992952,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170993958,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170994961,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72364032,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170995964,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72364032,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170996964,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72364032,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170997971,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72368128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170998971,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72368128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748170999975,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72380416,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171000981,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72380416,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171001984,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72396800,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171002984,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171003991,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171004998,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171006000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171006999,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72400896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171008000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72400896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171009000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72400896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171010000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72400896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171011000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72400896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171012000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72278016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171013000,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72790016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171014001,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72790016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171015008,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72761344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171016010,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72761344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171017010,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72761344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171018010,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72761344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171019011,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171020013,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171021020,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171022020,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171023021,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171024024,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171025029,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171026030,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171027030,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171028029,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171029031,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171030037,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171031039,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171032040,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171033043,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171034050,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171035049,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171036050,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171037053,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171038054,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171039058,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171040059,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171041059,
+          "main_pid": 15896,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72773632,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171042111,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171042120,
+      "end_ms": 1748171102208,
+      "duration_ms": 60088,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171042130,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2723840,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171043122,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72392704,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171044129,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72351744,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171045129,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75440128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171046129,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75427840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171047133,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75698176,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171048132,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75735040,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171049139,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75747328,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171050141,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75747328,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171051140,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72413184,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171052144,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72355840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171053143,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72491008,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171054144,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72491008,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171055145,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72314880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171056147,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72314880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171057151,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72314880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171058149,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72318976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171059152,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72318976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171060152,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72327168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171061154,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72327168,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171062154,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72331264,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171063155,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72437760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171064156,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72474624,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171065158,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72474624,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171066158,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72474624,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171067158,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72376320,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171068160,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72376320,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171069161,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72376320,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171070163,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72376320,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171071165,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72376320,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171072167,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72343552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171073168,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72966144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171074168,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72892416,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171075169,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72863744,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171076169,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72863744,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171077170,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72863744,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171078170,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72863744,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171079171,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72855552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171080172,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72855552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171081176,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72855552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171082176,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72855552,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171083177,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171084179,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171085181,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171086185,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171087181,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171088181,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171089190,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171090191,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171091194,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171092197,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171093200,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171094200,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171095201,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171096201,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171097208,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171098207,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171099207,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171100210,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171101210,
+          "main_pid": 1348,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72859648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171102268,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171102272,
+      "end_ms": 1748171162397,
+      "duration_ms": 60125,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171102282,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2785280,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171103282,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73019392,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171104282,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171105287,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75706368,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171106287,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75698176,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171107291,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75939840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171108292,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75993088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171109300,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75993088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171110300,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75993088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171111300,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72798208,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171112306,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72765440,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171113306,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171114310,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171115310,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72716288,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171116314,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72716288,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171117316,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72716288,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171118316,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171119317,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171120317,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72728576,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171121326,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72728576,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171122327,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72749056,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171123330,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72851456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171124336,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72851456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171125337,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72851456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171126341,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72851456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171127346,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171128346,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171129351,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171130353,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171131358,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72753152,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171132355,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72593408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171133357,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73023488,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171134357,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72986624,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171135359,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72957952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171136362,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72957952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171137362,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72957952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171138363,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72957952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171139367,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72949760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171140368,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72949760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171141372,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72949760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171142373,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72949760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171143373,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171144375,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171145376,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171146377,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171147376,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171148381,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171149381,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171150382,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171151386,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171152388,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171153387,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171154387,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73060352,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171155391,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171156391,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171157395,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171158395,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171159394,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171160394,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171161395,
+          "main_pid": 18604,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 6,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171162444,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171162450,
+      "end_ms": 1748171222566,
+      "duration_ms": 60116,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171162460,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2736128,
+          "cpu_percent": 104.2,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171163455,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72744960,
+          "cpu_percent": 1.6,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171164457,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72519680,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171165458,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75612160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171166464,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75571200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171167460,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75595776,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171168464,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75657216,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171169468,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75657216,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171170474,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75657216,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171171477,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72552448,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171172477,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72515584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171173477,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72671232,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171174478,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72671232,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171175478,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72441856,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171176484,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72441856,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171177484,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72441856,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171178486,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171179487,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171180488,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72454144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171181487,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72454144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171182494,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72458240,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171183497,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171184498,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171185497,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171186501,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171187502,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72466432,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171188503,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72466432,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171189506,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72466432,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171190507,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72466432,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171191512,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72466432,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171192513,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171193513,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72732672,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171194517,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72732672,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171195517,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72704000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171196521,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72704000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171197523,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72704000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171198526,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72704000,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171199528,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171200529,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171201533,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171202534,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171203533,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171204534,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171205536,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171206536,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171207540,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171208542,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171209546,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171210548,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171211553,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171212553,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171213552,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171214554,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72806400,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171215554,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171216556,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171217556,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171218560,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171219565,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171220567,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171221570,
+          "main_pid": 26400,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72720384,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 7,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171222625,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171222629,
+      "end_ms": 1748171282722,
+      "duration_ms": 60093,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171222637,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2732032,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171223636,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72450048,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171224642,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72216576,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171225642,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75329536,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171226645,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75317248,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171227644,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75321344,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171228646,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75370496,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171229646,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75370496,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171230646,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75370496,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171231652,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171232655,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72314880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171233656,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171234660,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171235661,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72273920,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171236664,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72273920,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171237665,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72273920,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171238664,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72278016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171239664,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72278016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171240671,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72286208,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171241672,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72286208,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171242677,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72298496,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171243679,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171244680,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171245681,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171246681,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171247682,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171248683,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171249689,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171250689,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171251694,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72335360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171252692,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72200192,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171253693,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72675328,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171254696,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72564736,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171255697,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171256698,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171257699,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171258699,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171259700,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171260703,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171261701,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171262704,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72527872,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171263704,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171264706,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171265708,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171266709,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171267710,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171268712,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171269712,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171270711,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171271714,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171272716,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171273718,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171274718,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171275716,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171276719,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171277721,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171278722,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171279723,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171280720,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171281720,
+          "main_pid": 26364,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 8,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171282777,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171282784,
+      "end_ms": 1748171342852,
+      "duration_ms": 60068,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171282790,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2772992,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171283789,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72568832,
+          "cpu_percent": 1.6,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171284789,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72175616,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171285791,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75210752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171286795,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75198464,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171287795,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75468800,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171288800,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75526144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171289806,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75526144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171290811,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75526144,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171291811,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72355840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171292809,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72355840,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171293811,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72486912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171294811,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72486912,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171295811,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72318976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171296813,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72318976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171297815,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72318976,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171298814,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72323072,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171299819,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72323072,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171300819,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72331264,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171301821,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72331264,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171302820,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72339456,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171303825,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171304826,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171305830,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171306830,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72445952,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171307833,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171308834,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171309839,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171310841,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171311842,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72347648,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171312841,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72278016,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171313842,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72994816,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171314843,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72949760,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171315844,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171316842,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171317845,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171318845,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171319846,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171320845,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171321847,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171322847,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72912896,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171323845,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171324847,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171325848,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171326849,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171327850,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171328850,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171329851,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171330849,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171331851,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171332852,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171333853,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171334852,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73007104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171335854,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171336853,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171337856,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171338854,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171339854,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171340857,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171341855,
+          "main_pid": 25832,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72921088,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 9,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171342904,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171342909,
+      "end_ms": 1748171403009,
+      "duration_ms": 60100,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171342915,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2744320,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171343916,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73138176,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171344914,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72749056,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171345917,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75632640,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171346917,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75628544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171347918,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75886592,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171348918,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75943936,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171349920,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75952128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171350919,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75952128,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171351919,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72749056,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171352920,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72724480,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171353920,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72847360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171354921,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72847360,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171355925,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72654848,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171356925,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72654848,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171357927,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72654848,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171358930,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72658944,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171359927,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72658944,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171360928,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171361929,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171362930,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72687616,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171363935,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72794112,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171364935,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72794112,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171365937,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72794112,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171366937,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72794112,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171367939,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171368946,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171369947,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171370949,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171371948,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72695808,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171372953,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72622080,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171373956,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73117696,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171374956,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73117696,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171375958,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73089024,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171376958,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73089024,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171377960,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73089024,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171378963,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73089024,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171379961,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73080832,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171380966,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73080832,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171381970,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73080832,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171382974,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73080832,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171383974,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171384976,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171385978,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171386979,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171387980,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171388983,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171389983,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171390981,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171391989,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171392990,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171393995,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171394995,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73195520,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171395997,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171396998,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171397998,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171399004,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171400005,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171401007,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171402012,
+          "main_pid": 23620,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73105408,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 10,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748171403059,
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "runtime_resource_usage": {
+      "start_ms": 1748171403065,
+      "end_ms": 1748171463187,
+      "duration_ms": 60122,
+      "success": true,
+      "resource_usage_instances": [
+        {
+          "timestamp_ms": 1748171403071,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 2707456,
+          "cpu_percent": 0.0,
+          "process_count": 1
+        },
+        {
+          "timestamp_ms": 1748171404067,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72826880,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171405067,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72474624,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171406068,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75522048,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171407075,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75513856,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171408078,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75554816,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171409082,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75612160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171410078,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75612160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171411088,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 75612160,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171412089,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171413087,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72536064,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171414089,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171415097,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72667136,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171416098,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72491008,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171417098,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72491008,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171418099,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72491008,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171419102,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171420102,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72495104,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171421104,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171422107,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72499200,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171423108,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72511488,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171424108,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171425107,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72650752,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171426107,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72654848,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171427114,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72654848,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171428117,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72556544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171429114,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72556544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171430117,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72556544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171431118,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72556544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171432122,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72556544,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171433122,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72359936,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171434124,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73084928,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171435124,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72974336,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171436124,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171437127,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171438127,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171439127,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72945664,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171440133,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72937472,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171441134,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72937472,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171442133,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72937472,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171443133,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72937472,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171444133,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171445137,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171446143,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171447146,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171448153,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171449153,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171450156,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171451157,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171452158,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171453163,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171454163,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171455167,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 73027584,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171456172,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171457176,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171458177,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171459181,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171460183,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171461186,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        },
+        {
+          "timestamp_ms": 1748171462187,
+          "main_pid": 5132,
+          "main_name": "blendio-tauri.exe",
+          "ram_bytes": 72941568,
+          "cpu_percent": 0.0,
+          "process_count": 7
+        }
+      ]
+    }
+  }
+]

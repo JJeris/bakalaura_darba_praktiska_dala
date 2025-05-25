@@ -1,0 +1,252 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748165136210,
+    "steps": [
+      {
+        "cmd": "cargo clean",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri\\src-tauri",
+        "start_ms": 1748165136210,
+        "end_ms": 1748165136276,
+        "duration_ms": 66,
+        "success": true
+      },
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165136623,
+        "end_ms": 1748165139491,
+        "duration_ms": 2868,
+        "success": true
+      },
+      {
+        "cmd": "npm run tauri build",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165139491,
+        "end_ms": 1748165278658,
+        "duration_ms": 139167,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "msi_size_bytes": 7266304,
+    "exe_size_bytes": 21109760
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748165278658,
+    "steps": [
+      {
+        "cmd": "cargo clean",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri\\src-tauri",
+        "start_ms": 1748165278658,
+        "end_ms": 1748165279866,
+        "duration_ms": 1208,
+        "success": true
+      },
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165280507,
+        "end_ms": 1748165284042,
+        "duration_ms": 3535,
+        "success": true
+      },
+      {
+        "cmd": "npm run tauri build",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165284042,
+        "end_ms": 1748165427104,
+        "duration_ms": 143062,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "msi_size_bytes": 7266304,
+    "exe_size_bytes": 21109760
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748165427105,
+    "steps": [
+      {
+        "cmd": "cargo clean",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri\\src-tauri",
+        "start_ms": 1748165427105,
+        "end_ms": 1748165428310,
+        "duration_ms": 1205,
+        "success": true
+      },
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165428864,
+        "end_ms": 1748165432327,
+        "duration_ms": 3463,
+        "success": true
+      },
+      {
+        "cmd": "npm run tauri build",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165432327,
+        "end_ms": 1748165572341,
+        "duration_ms": 140014,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "msi_size_bytes": 7266304,
+    "exe_size_bytes": 21109760
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748165572341,
+    "steps": [
+      {
+        "cmd": "cargo clean",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri\\src-tauri",
+        "start_ms": 1748165572341,
+        "end_ms": 1748165573524,
+        "duration_ms": 1183,
+        "success": true
+      },
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165573845,
+        "end_ms": 1748165575832,
+        "duration_ms": 1987,
+        "success": true
+      },
+      {
+        "cmd": "npm run tauri build",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165575832,
+        "end_ms": 1748165713677,
+        "duration_ms": 137845,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "msi_size_bytes": 7266304,
+    "exe_size_bytes": 21109760
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22621)",
+      "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+      "ram": "32 GB",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.9.0",
+      "npm": "10.1.0",
+      "cargo": "1.84.1 (66221abde 2024-11-19)",
+      "rust": "1.84.1 (e71f9a9a9 2025-01-27)"
+    },
+    "session_start_ms": 1748165713677,
+    "steps": [
+      {
+        "cmd": "cargo clean",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri\\src-tauri",
+        "start_ms": 1748165713678,
+        "end_ms": 1748165714873,
+        "duration_ms": 1195,
+        "success": true
+      },
+      {
+        "cmd": "npm install",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165715333,
+        "end_ms": 1748165719137,
+        "duration_ms": 3804,
+        "success": true
+      },
+      {
+        "cmd": "npm run tauri build",
+        "cwd": "C:\\bakalaura_darba\\blendio-tauri",
+        "start_ms": 1748165719137,
+        "end_ms": 1748165858054,
+        "duration_ms": 138917,
+        "success": true
+      }
+    ],
+    "build_commands_used": [
+      "npm run tauri build"
+    ],
+    "msi_size_bytes": 7266304,
+    "exe_size_bytes": 21109760
+  }
+]
