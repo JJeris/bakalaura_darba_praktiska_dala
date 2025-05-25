@@ -1,0 +1,2398 @@
+[
+  {
+    "iteration": 1,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197369980,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197402486,
+      "end_ms": 1748197404505,
+      "duration_ms": 2019,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197402512,
+          "main_pid": 236596,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197403508,
+          "main_pid": 236596,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197404505,
+          "main_pid": 236596,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 2,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197404634,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197404660,
+      "end_ms": 1748197405683,
+      "duration_ms": 1023,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197404686,
+          "main_pid": 237140,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 104.2,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197405683,
+          "main_pid": 237140,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 3,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197405795,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197405811,
+      "end_ms": 1748197407826,
+      "duration_ms": 2015,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197405857,
+          "main_pid": 232352,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 33.2,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197406826,
+          "main_pid": 232352,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 4.8,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197407826,
+          "main_pid": 232352,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 4,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197407951,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197407970,
+      "end_ms": 1748197408986,
+      "duration_ms": 1016,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197408003,
+          "main_pid": 237244,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 97.7,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197408986,
+          "main_pid": 237244,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 5,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197409082,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197409120,
+      "end_ms": 1748197411134,
+      "duration_ms": 2014,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197409152,
+          "main_pid": 236564,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197410138,
+          "main_pid": 236564,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 4.8,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197411134,
+          "main_pid": 236564,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 6,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197411245,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197411275,
+      "end_ms": 1748197412289,
+      "duration_ms": 1014,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197411310,
+          "main_pid": 236668,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 100.8,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197412289,
+          "main_pid": 236668,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 7,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197412399,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197412430,
+      "end_ms": 1748197413444,
+      "duration_ms": 1014,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197412462,
+          "main_pid": 237232,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197413444,
+          "main_pid": 237232,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 8,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197413597,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197413617,
+      "end_ms": 1748197414630,
+      "duration_ms": 1013,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197413650,
+          "main_pid": 235836,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197414630,
+          "main_pid": 235836,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 9,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197414742,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197414771,
+      "end_ms": 1748197415781,
+      "duration_ms": 1010,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197414801,
+          "main_pid": 237072,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197415781,
+          "main_pid": 237072,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 10,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197415892,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197415940,
+      "end_ms": 1748197417970,
+      "duration_ms": 2030,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197415962,
+          "main_pid": 237136,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197416948,
+          "main_pid": 237136,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197417970,
+          "main_pid": 237136,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 11,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197418075,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197418108,
+      "end_ms": 1748197420125,
+      "duration_ms": 2017,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197418143,
+          "main_pid": 237112,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197419126,
+          "main_pid": 237112,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197420125,
+          "main_pid": 237112,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 12,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197420239,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197420266,
+      "end_ms": 1748197421284,
+      "duration_ms": 1018,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197420297,
+          "main_pid": 237488,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197421284,
+          "main_pid": 237488,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 13,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197421397,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197421428,
+      "end_ms": 1748197423458,
+      "duration_ms": 2030,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197421464,
+          "main_pid": 232980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197422441,
+          "main_pid": 232980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197423458,
+          "main_pid": 232980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 14,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197423585,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197423613,
+      "end_ms": 1748197425646,
+      "duration_ms": 2033,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197423631,
+          "main_pid": 236832,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197424633,
+          "main_pid": 236832,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197425646,
+          "main_pid": 236832,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 15,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197425756,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197425787,
+      "end_ms": 1748197427813,
+      "duration_ms": 2026,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197425819,
+          "main_pid": 231748,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197426801,
+          "main_pid": 231748,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197427813,
+          "main_pid": 231748,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 16,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197427923,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197427954,
+      "end_ms": 1748197429992,
+      "duration_ms": 2038,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197427986,
+          "main_pid": 237056,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197428966,
+          "main_pid": 237056,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197429992,
+          "main_pid": 237056,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 17,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197430102,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197430118,
+      "end_ms": 1748197431129,
+      "duration_ms": 1011,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197430162,
+          "main_pid": 234548,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197431129,
+          "main_pid": 234548,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 18,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197431239,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197431270,
+      "end_ms": 1748197433282,
+      "duration_ms": 2012,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197431305,
+          "main_pid": 237252,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 100.8,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197432285,
+          "main_pid": 237252,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 4.8,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197433282,
+          "main_pid": 237252,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 19,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197433408,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197433425,
+      "end_ms": 1748197435443,
+      "duration_ms": 2018,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197433461,
+          "main_pid": 236584,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 48.8,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197434447,
+          "main_pid": 236584,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197435443,
+          "main_pid": 236584,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 20,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197435537,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197435568,
+      "end_ms": 1748197437588,
+      "duration_ms": 2020,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197435600,
+          "main_pid": 233704,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197436591,
+          "main_pid": 233704,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197437588,
+          "main_pid": 233704,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 21,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197437714,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197437732,
+      "end_ms": 1748197438754,
+      "duration_ms": 1022,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197437765,
+          "main_pid": 235692,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197438754,
+          "main_pid": 235692,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 22,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197438864,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197438879,
+      "end_ms": 1748197440903,
+      "duration_ms": 2024,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197438921,
+          "main_pid": 236536,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197439892,
+          "main_pid": 236536,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197440903,
+          "main_pid": 236536,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 23,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197440997,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197441029,
+      "end_ms": 1748197442044,
+      "duration_ms": 1015,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197441067,
+          "main_pid": 237064,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 33.2,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197442044,
+          "main_pid": 237064,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 24,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197442152,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197442184,
+      "end_ms": 1748197444199,
+      "duration_ms": 2015,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197442215,
+          "main_pid": 231836,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197443204,
+          "main_pid": 231836,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197444199,
+          "main_pid": 231836,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 25,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197444325,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197444353,
+      "end_ms": 1748197445380,
+      "duration_ms": 1027,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197444373,
+          "main_pid": 236476,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197445380,
+          "main_pid": 236476,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 26,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197445506,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197445537,
+      "end_ms": 1748197446560,
+      "duration_ms": 1023,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197445556,
+          "main_pid": 236312,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 104.2,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197446560,
+          "main_pid": 236312,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 27,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197446686,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197446721,
+      "end_ms": 1748197448735,
+      "duration_ms": 2014,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197446752,
+          "main_pid": 235592,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 48.8,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197447740,
+          "main_pid": 235592,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197448735,
+          "main_pid": 235592,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 28,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197448849,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197448879,
+      "end_ms": 1748197449899,
+      "duration_ms": 1020,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197448911,
+          "main_pid": 237624,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197449899,
+          "main_pid": 237624,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 29,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197450001,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197450025,
+      "end_ms": 1748197452052,
+      "duration_ms": 2027,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197450048,
+          "main_pid": 238380,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197451037,
+          "main_pid": 238380,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.1,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197452052,
+          "main_pid": 238380,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 30,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197452172,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197452195,
+      "end_ms": 1748197454223,
+      "duration_ms": 2028,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197452227,
+          "main_pid": 2408,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197453210,
+          "main_pid": 2408,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197454223,
+          "main_pid": 2408,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 31,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197454319,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197454350,
+      "end_ms": 1748197456369,
+      "duration_ms": 2019,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197454382,
+          "main_pid": 238176,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197455369,
+          "main_pid": 238176,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197456369,
+          "main_pid": 238176,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 32,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197456496,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197456512,
+      "end_ms": 1748197457529,
+      "duration_ms": 1017,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197456551,
+          "main_pid": 235560,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197457529,
+          "main_pid": 235560,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 33,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197457639,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197457671,
+      "end_ms": 1748197458691,
+      "duration_ms": 1020,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197457688,
+          "main_pid": 238304,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197458691,
+          "main_pid": 238304,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 34,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197458817,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197458848,
+      "end_ms": 1748197459870,
+      "duration_ms": 1022,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197458879,
+          "main_pid": 238496,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197459870,
+          "main_pid": 238496,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 35,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197459968,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197459998,
+      "end_ms": 1748197462016,
+      "duration_ms": 2018,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197460029,
+          "main_pid": 237124,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197461004,
+          "main_pid": 237124,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197462016,
+          "main_pid": 237124,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 36,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197462126,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197462158,
+      "end_ms": 1748197463181,
+      "duration_ms": 1023,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197462173,
+          "main_pid": 237588,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197463181,
+          "main_pid": 237588,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 37,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197463311,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197463339,
+      "end_ms": 1748197465362,
+      "duration_ms": 2023,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197463368,
+          "main_pid": 238464,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197464346,
+          "main_pid": 238464,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197465362,
+          "main_pid": 238464,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 38,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197465474,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197465505,
+      "end_ms": 1748197467531,
+      "duration_ms": 2026,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197465534,
+          "main_pid": 237988,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197466519,
+          "main_pid": 237988,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197467531,
+          "main_pid": 237988,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 39,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197467659,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197467675,
+      "end_ms": 1748197469694,
+      "duration_ms": 2019,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197467711,
+          "main_pid": 237824,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197468698,
+          "main_pid": 237824,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197469694,
+          "main_pid": 237824,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 40,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197469805,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197469852,
+      "end_ms": 1748197471891,
+      "duration_ms": 2039,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197469868,
+          "main_pid": 231492,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197470878,
+          "main_pid": 231492,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.1,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197471891,
+          "main_pid": 231492,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 41,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197472018,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197472034,
+      "end_ms": 1748197473047,
+      "duration_ms": 1013,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197472076,
+          "main_pid": 238572,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197473047,
+          "main_pid": 238572,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 42,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197473158,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197473189,
+      "end_ms": 1748197474198,
+      "duration_ms": 1009,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197473226,
+          "main_pid": 235784,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197474198,
+          "main_pid": 235784,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 43,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197474308,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197474323,
+      "end_ms": 1748197476353,
+      "duration_ms": 2030,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197474355,
+          "main_pid": 237008,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197475358,
+          "main_pid": 237008,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197476353,
+          "main_pid": 237008,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 44,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197476463,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197476494,
+      "end_ms": 1748197478518,
+      "duration_ms": 2024,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197476526,
+          "main_pid": 236980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197477505,
+          "main_pid": 236980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 3.2,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197478518,
+          "main_pid": 236980,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 45,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197478628,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197478660,
+      "end_ms": 1748197480687,
+      "duration_ms": 2027,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197478691,
+          "main_pid": 236164,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197479670,
+          "main_pid": 236164,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197480687,
+          "main_pid": 236164,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 46,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197480797,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197480813,
+      "end_ms": 1748197482854,
+      "duration_ms": 2041,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197480844,
+          "main_pid": 237968,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197481840,
+          "main_pid": 237968,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.6,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197482854,
+          "main_pid": 237968,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 47,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197482964,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197482996,
+      "end_ms": 1748197484006,
+      "duration_ms": 1010,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197483032,
+          "main_pid": 237448,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197484006,
+          "main_pid": 237448,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 48,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197484134,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197484170,
+      "end_ms": 1748197485178,
+      "duration_ms": 1008,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197484195,
+          "main_pid": 238136,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 50.4,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197485178,
+          "main_pid": 238136,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 49,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197485306,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197485357,
+      "end_ms": 1748197486372,
+      "duration_ms": 1015,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197485376,
+          "main_pid": 236796,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 97.7,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197486372,
+          "main_pid": 236796,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  },
+  {
+    "iteration": 50,
+    "system_info": {
+      "os": "Windows 11 (10.0.22631)",
+      "cpu": "AMD Ryzen 7 7735HS with Radeon Graphics",
+      "ram": "14 GB",
+      "gpu": "AMD Radeon(TM) 680M",
+      "cpu_cores": 8,
+      "cpu_threads": 16
+    },
+    "framework_versions": {
+      "tauri": "^2",
+      "node": "v20.15.0",
+      "npm": "10.8.1",
+      "cargo": "1.87.0 (99624be96 2025-05-06)",
+      "rust": "1.87.0 (17067e9ac 2025-05-09)"
+    },
+    "session_start_ms": 1748197486466,
+    "build_commands_used": [
+      "npm run tauri build -- --debug"
+    ],
+    "startup_instances": {
+      "start_ms": 1748197486513,
+      "end_ms": 1748197488548,
+      "duration_ms": 2035,
+      "success": true,
+      "start_up_instance_moments": [
+        {
+          "timestamp_ms": 1748197486528,
+          "main_pid": 233520,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 1
+        },
+        {
+          "timestamp_ms": 1748197487536,
+          "main_pid": 233520,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 1.5,
+          "main_process_count": 7
+        },
+        {
+          "timestamp_ms": 1748197488548,
+          "main_pid": 233520,
+          "main_name": "blendio-tauri.exe",
+          "cpu_percent": 0.0,
+          "main_process_count": 7
+        }
+      ]
+    }
+  }
+]
