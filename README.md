@@ -1,4 +1,5 @@
 # Izmaiņas pēc 26.05.2025. 
+
 - Tika atjaunināts README.md,
 - Tika atjauninātas rezultātu izklājlapas - tās sākotnēji tika veidotas ar Google Sheets, bet, tās saglabājot lokāli kā Excel dokumentus, programmatūru nesaderības dēļ radās datu kļūdas. Labojumi attiecas uz formatējumu un uz aprēķinu kļūdām.
 
