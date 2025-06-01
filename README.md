@@ -1,3 +1,7 @@
+# Izmaiņas pēc 26.05.2025. 
+- Tika atjaunināts README.md,
+- Tika atjauninātas rezultātu izklājlapas - tās sākotnēji tika veidotas ar Google Sheets, bet, tās saglabājot lokāli kā Excel dokumentus, programmatūru nesaderības dēļ radās datu kļūdas. Labojumi attiecas uz formatējumu un uz aprēķinu kļūdām.
+
 # Bakalaura darba praktiskā daļa
 
 Latvijas Universitātes studenta Johana Justa Era bakalaura darba "Praktisks Vairākplatformu Darbvirsmas Lietojumprogrammu Izstrādes Ietvaru Salīdzinājums" praktisko eksperimentu koda repozitorija.
